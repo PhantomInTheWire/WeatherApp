@@ -8,7 +8,7 @@ st.set_page_config(page_title="Weather Report App")
 
 # App title
 st.title("Weather Report App")
-
+st.caption("~By Swarnim Goyal and Team")
 # City input
 city = st.text_input("Enter city name", "Gandhinagar, Gujrat")
 
