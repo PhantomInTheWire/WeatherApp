@@ -4,7 +4,7 @@ from pyowm import OWM
 import plotly.express as px
 
 # Streamlit configuration
-st.set_page_config(page_title="Weather Report App", layout="wide")
+st.set_page_config(page_title="Weather Report App")
 
 # App title
 st.title("Weather Report App")
